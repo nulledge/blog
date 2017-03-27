@@ -18,7 +18,7 @@ twitter_username: skyblue_ray
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-swiss
 gems:
   - jekyll-feed
 exclude:
