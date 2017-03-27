@@ -34,7 +34,7 @@
                   {% include dot-accent.html %}
                 </div>
                 <div class="inline-block mt-3">
-                  {% include icon-github.html %}
+                  {% include github.html %}
                 </div>
               </div>
               <!-- Set site description in config.yml -->
@@ -46,7 +46,7 @@
                   {% include icon-playstation.html %}
                 </div>
                 <div class="inline-block mt-3">
-                  {% include icon-twitter.html %}
+                  {% include {{ site.social_link | default: "twitter" }}.html %}
                 </div>
             </div>
           </div>

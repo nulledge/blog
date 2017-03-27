@@ -14,8 +14,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nulledge
 twitter_username: skyblue_ray
 playstation_username: skyblue_ray
-github_repo:  nulledge.github.io
-theme_color:  blue
 
 # Build settings
 markdown: kramdown
