@@ -19,7 +19,7 @@ theme_color:  blue
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-swiss
+theme: jekyll-swiss
 gems:
   - jekyll-feed
 exclude:
